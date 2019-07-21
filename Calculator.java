@@ -7,7 +7,7 @@ public class Calculator {
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter two numbers: ");
 
-        // nextDouble() reads the next double from the keyboard
+        // nextDouble() reads th
         double first = reader.nextDouble();
         double second = reader.nextDouble();
 
