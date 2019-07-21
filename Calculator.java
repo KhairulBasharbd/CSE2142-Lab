@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+//Khairul Bashar
+//I am a student.
+// I want to be a good person.
 public class Calculator {
 
     public static void main(String[] args) {
